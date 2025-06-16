@@ -2,7 +2,8 @@
 
 A Machine Learning + Flask web app that predicts whether a **bank customer is likely to churn (leave the bank)** based on key financial and behavioral parameters like credit score, balance, tenure, and more.
 
-![Live Demo]:-(https://bank-churn-app.onrender.com)
+## 🔗 Live Demo  
+👉 [Click here to try it now](https://bank-churn-predictor-yltr.onrender.com)
 ![IProject Preview]:-static/project-preview.png
 ---
 
